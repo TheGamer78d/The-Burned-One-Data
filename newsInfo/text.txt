@@ -1,1 +1,2 @@
-Added news section to the game!
+Added news section to the game + UI changes!
+Thanks to Chase for playtesting
